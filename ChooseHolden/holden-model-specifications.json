@@ -1,0 +1,1081 @@
+[
+    {
+        "id": 1220582558696,
+        "name": "Sportwagon Berlina",
+        "specifications": []
+    },
+    {
+        "id": 1220610941231,
+        "name": "Captiva 7 SX",
+        "specifications": [
+            {
+                "id": "1226935059865",
+                "name": "Captiva 7 SX 2.4L Petrol 2WD Automatic",
+                "description": "2.4L Petrol 2WD Automatic",
+                "price": "32490.0"
+            },
+            {
+                "id": "1220594390990",
+                "name": "Captiva 7 SX 2.2L Turbo Diesel 2WD Automatic",
+                "description": "2.2L Turbo Diesel 2WD Automatic",
+                "price": "35490.0"
+            }
+        ]
+    },
+    {
+        "id": 1220638656501,
+        "name": "Cruze Equipe Sedan",
+        "specifications": [
+            {
+                "id": "1236926374367",
+                "name": "1.8L Petrol Manual",
+                "description": "Cruze CD 1.8L Petrol Manual",
+                "price": "19490.0"
+            },
+            {
+                "id": "1226936087818",
+                "name": "1.4L iTi Petrol Automatic",
+                "description": "1.4L iTi Petrol Automatic CD",
+                "price": "23190.0"
+            },
+            {
+                "id": "1236926374278",
+                "name": "1.8L Petrol Automatic",
+                "description": "Cruze CD 1.8L Petrol Automatic",
+                "price": "21690.0"
+            },
+            {
+                "id": "1226934986426",
+                "name": "2.0L Diesel Automatic",
+                "description": "2.0L Diesel Automatic",
+                "price": "25690.0"
+            }
+        ]
+    },
+    {
+        "id": 1220638656871,
+        "name": "Cruze CDX Sedan",
+        "specifications": [
+            {
+                "id": "1236906219938",
+                "name": "1.8L Petrol Automatic",
+                "description": "Cruze CDX 1.8L Petrol Automatic",
+                "price": "24190.0"
+            },
+            {
+                "id": "1226934992012",
+                "name": "2.0L Diesel Automatic",
+                "description": "2.0L Diesel Automatic - Cruze CDX",
+                "price": "28190.0"
+            }
+        ]
+    },
+    {
+        "id": 1220638657248,
+        "name": "Cruze SRi Sedan",
+        "specifications": [
+            {
+                "id": "1236972884019",
+                "name": "1.6L iTi Petrol Manual",
+                "description": "1.6L iTi Petrol Manual",
+                "price": "22490.0"
+            },
+            {
+                "id": "1364196657914",
+                "name": "1.6L iTi Petrol Automatic",
+                "description": "1.6L Petrol Automatic",
+                "price": "24690.0"
+            }
+        ]
+    },
+    {
+        "id": 1220638657623,
+        "name": "Cruze SRi-V Sedan",
+        "specifications": [
+            {
+                "id": "1364433465096",
+                "name": "1.6L SRiV iTi Petrol Manual",
+                "description": "1.6L SRiV iTi Petrol Manual",
+                "price": "26490.0"
+            },
+            {
+                "id": "1364433360833",
+                "name": "1.6L SRiV iTi Petrol Automatic ",
+                "description": "1.6L SRiV iTi Petrol Automatic",
+                "price": "28690.0"
+            }
+        ]
+    },
+    {
+        "id": 1226929728771,
+        "name": "Barina Spark",
+        "specifications": [
+            {
+                "id": "1220637619129",
+                "name": "1.2L 4-cylinder petrol engine with 5-Speed Manual Transmission",
+                "description": "1.2L 4-cylinder petrol engine with 5-Speed Manual Transmission",
+                "price": "12490.0"
+            },
+            {
+                "id": "1236946223314",
+                "name": "1.25L 4-cylinder petrol engine with 4-Speed AutoTransmission",
+                "description": "1.25L 4-cylinder petrol engine with 4-Speed AutoTransmission",
+                "price": "14490.0"
+            }
+        ]
+    },
+    {
+        "id": 1226935105375,
+        "name": "Captiva 7 CX",
+        "specifications": [
+            {
+                "id": "1226935135670",
+                "name": "Captiva 7 CX 3.0L SIDI Direct Injection V6 Petrol AWD Auto",
+                "description": "3.0L SIDI Direct Injection V6 Petrol AWD Auto",
+                "price": "38490.0"
+            },
+            {
+                "id": "1226935135653",
+                "name": "Captiva 7 CX 2.2L Turbo Diesel AWD Automatic",
+                "description": "2.2L Turbo Diesel AWD Automatic",
+                "price": "39490.0"
+            }
+        ]
+    },
+    {
+        "id": 1226935180493,
+        "name": "Captiva 7 LX",
+        "specifications": [
+            {
+                "id": "1226935466695",
+                "name": "Captiva 7 LX 3.0L SIDI V6 Petrol engine AWD Automatic",
+                "description": "3.0L SIDI Direct Injection V6 Petrol engine AWD Automatic",
+                "price": "42490.0"
+            },
+            {
+                "id": "1226935466674",
+                "name": "Captiva 7 LX 2.2L Turbo Diesel engine AWD Automatic",
+                "description": "2.2L Turbo Diesel engine AWD Automatic",
+                "price": "43490.0"
+            }
+        ]
+    },
+    {
+        "id": 1236918047992,
+        "name": "Colorado Crew Cab Pickup 4x4 LX-R TD",
+        "specifications": [
+            {
+                "id": "1220595432405",
+                "name": "Crew Cab Pickup 4x4 LX TD Manual",
+                "description": "Crew Cab Pickup 4x4 LX TD Manual",
+                "price": "43490.0"
+            },
+            {
+                "id": "1220595432215",
+                "name": "Crew Cab Pickup 4x4 LX TD Auto",
+                "description": "Crew Cab Pickup 4x4 LX TD Auto",
+                "price": "45490.0"
+            }
+        ]
+    },
+    {
+        "id": 1236926529414,
+        "name": "Barina CD Hatch",
+        "specifications": [
+            {
+                "id": "1236928902240",
+                "name": "1.6L Petrol Manual CD Hatch",
+                "description": "1.6 litre in-line 4-cylinder DOHC 16 valve petrol engine -Barina",
+                "price": "15990.0"
+            },
+            {
+                "id": "1236941963560",
+                "name": "1.6L Petrol Automatic CD Hatch",
+                "description": "1.6 litre in-line 4-cylinder DOHC 16 valve petrol engine - Barina",
+                "price": "17990.0"
+            }
+        ]
+    },
+    {
+        "id": 1236936003816,
+        "name": "Cruze Equipe Hatch",
+        "specifications": [
+            {
+                "id": "1236926374367",
+                "name": "1.8L Petrol Manual",
+                "description": "Cruze CD 1.8L Petrol Manual",
+                "price": "19490.0"
+            },
+            {
+                "id": "1226936087818",
+                "name": "1.4L iTi Petrol Automatic",
+                "description": "1.4L iTi Petrol Automatic CD",
+                "price": "23190.0"
+            },
+            {
+                "id": "1236926374278",
+                "name": "1.8L Petrol Automatic",
+                "description": "Cruze CD 1.8L Petrol Automatic",
+                "price": "21690.0"
+            },
+            {
+                "id": "1226934986426",
+                "name": "2.0L Diesel Automatic",
+                "description": "2.0L Diesel Automatic",
+                "price": "25690.0"
+            }
+        ]
+    },
+    {
+        "id": 1236936004502,
+        "name": "Cruze SRi Hatch",
+        "specifications": [
+            {
+                "id": "1236972884019",
+                "name": "1.6L iTi Petrol Manual",
+                "description": "1.6L iTi Petrol Manual",
+                "price": "22490.0"
+            },
+            {
+                "id": "1364196657914",
+                "name": "1.6L iTi Petrol Automatic",
+                "description": "1.6L Petrol Automatic",
+                "price": "24690.0"
+            }
+        ]
+    },
+    {
+        "id": 1236936004833,
+        "name": "Cruze SRi-V Hatch",
+        "specifications": [
+            {
+                "id": "1364433465096",
+                "name": "1.6L SRiV iTi Petrol Manual",
+                "description": "1.6L SRiV iTi Petrol Manual",
+                "price": "26490.0"
+            },
+            {
+                "id": "1364433360833",
+                "name": "1.6L SRiV iTi Petrol Automatic ",
+                "description": "1.6L SRiV iTi Petrol Automatic",
+                "price": "28690.0"
+            }
+        ]
+    },
+    {
+        "id": 1236937203270,
+        "name": "Barina CD Sedan",
+        "specifications": [
+            {
+                "id": "1236941963559",
+                "name": "1.6L Petrol Manual CD Sedan",
+                "description": "Barina Sedan - 1.6 litre in-line 4-cylinder DOHC 16 valve petrol engine",
+                "price": "16490.0"
+            },
+            {
+                "id": "1236946121886",
+                "name": "1.6L Petrol Automatic CD Sedan",
+                "description": "1.6 litre in-line 4-cylinder DOHC 16 valve petrol engine - Barina Sedan",
+                "price": "18490.0"
+            }
+        ]
+    },
+    {
+        "id": 1236941704383,
+        "name": "Colorado 4x4 Crew Cab Pickup LTZ",
+        "specifications": [
+            {
+                "id": "1236941996914",
+                "name": "4x4 Crew Cab Pickup - LTZ Man",
+                "description": "4x4 Crew Cab Pickup - LTZ Man",
+                "price": "49990.0"
+            },
+            {
+                "id": "1236941996941",
+                "name": "4x4 Crew Cab Pickup - LTZ Auto",
+                "description": "4x4 Crew Cab Pickup - LTZ Auto",
+                "price": "52190.0"
+            }
+        ]
+    },
+    {
+        "id": 1236941704675,
+        "name": "Colorado 4x4 Crew Cab Pickup LT",
+        "specifications": [
+            {
+                "id": "1236941996861",
+                "name": "4x4 Crew Cab Pickup - LT Man",
+                "description": "4x4 Crew Cab Pickup - LT Man",
+                "price": "45490.0"
+            },
+            {
+                "id": "1236941996887",
+                "name": "4x4 Crew Cab Pickup - LT Auto",
+                "description": "4x4 Crew Cab Pickup - LT Auto",
+                "price": "47690.0"
+            }
+        ]
+    },
+    {
+        "id": 1236941710028,
+        "name": "Colorado 4x4 Crew Cab Pickup LX",
+        "specifications": [
+            {
+                "id": "1236941996807",
+                "name": "4x4 Crew Cab Pickup - LX Man",
+                "description": "4x4 Crew Cab Pickup - LX Man",
+                "price": "44490.0"
+            },
+            {
+                "id": "1236941996834",
+                "name": "4x4 Crew Cab Pickup - LX Auto",
+                "description": "4x4 Crew Cab Pickup - LX Auto",
+                "price": "46890.0"
+            }
+        ]
+    },
+    {
+        "id": 1236941710086,
+        "name": "Colorado 4x4 Crew Cab Chassis LX",
+        "specifications": [
+            {
+                "id": "1236941996751",
+                "name": "4x4 Crew Cab Chassis - LX Man",
+                "description": "4x4 Crew Cab Chassis - LX Man",
+                "price": "42990.0"
+            },
+            {
+                "id": "1236941996777",
+                "name": "4x4 Crew Cab Chassis - LX Auto",
+                "description": "4x4 Crew Cab Chassis - LX Auto",
+                "price": "45390.0"
+            }
+        ]
+    },
+    {
+        "id": 1236941710359,
+        "name": "Colorado 4x4 Space Cab Pickup LTZ",
+        "specifications": [
+            {
+                "id": "1236941996669",
+                "name": "4x4 Space Cab Pickup - LTZ Man",
+                "description": "4x4 Space Cab Pickup - LTZ Man",
+                "price": "47490.0"
+            },
+            {
+                "id": "1236941996695",
+                "name": "4x4 Space Cab Pickup - LTZ Auto",
+                "description": "4x4 Space Cab Pickup - LTZ Auto",
+                "price": "49690.0"
+            }
+        ]
+    },
+    {
+        "id": 1236941710419,
+        "name": "Colorado 4x4 Space Cab Chassis LX",
+        "specifications": [
+            {
+                "id": "1236941996617",
+                "name": "4x4 Space Cab Chassis - LX Man",
+                "description": "4x4 Space Cab Chassis - LX Man",
+                "price": "40490.0"
+            },
+            {
+                "id": "1236941996643",
+                "name": "4x4 Space Cab Chassis - LX Auto",
+                "description": "4x4 Space Cab Chassis - LX Auto",
+                "price": "42690.0"
+            }
+        ]
+    },
+    {
+        "id": 1236941710477,
+        "name": "Colorado 4x4 Single Cab Chassis LX",
+        "specifications": [
+            {
+                "id": "1236941996554",
+                "name": "4x4 Single Cab Chassis - LX Man ",
+                "description": "4x4 Single Cab Chassis - LX Man",
+                "price": "35990.0"
+            },
+            {
+                "id": "1236941996591",
+                "name": "4x4 Single Cab Chassis - LX Auto",
+                "description": "4x4 Single Cab Chassis - LX Auto",
+                "price": "38190.0"
+            }
+        ]
+    },
+    {
+        "id": 1236941710535,
+        "name": "Colorado 4x4 Single Cab Chassis DX",
+        "specifications": [
+            {
+                "id": "1236941996527",
+                "name": "4x4 Single Cab Chassis - DX Man",
+                "description": "4x4 Single Cab Chassis - DX Man",
+                "price": "34990.0"
+            }
+        ]
+    },
+    {
+        "id": 1236941710594,
+        "name": "Colorado 4x2 Crew Cab Pickup LTZ",
+        "specifications": [
+            {
+                "id": "1236941994841",
+                "name": "4x2 Crew Cab Pickup - LTZ Man",
+                "description": "4x2 Crew Cab Pickup - LTZ Man",
+                "price": "40990.0"
+            },
+            {
+                "id": "1236941994867",
+                "name": "4x2 Crew Cab Pickup - LTZ Auto",
+                "description": "4x2 Crew Cab Pickup - LTZ Auto",
+                "price": "43190.0"
+            }
+        ]
+    },
+    {
+        "id": 1236941710653,
+        "name": "Colorado 4x2 Crew Cab Pickup LT",
+        "specifications": [
+            {
+                "id": "1236941994749",
+                "name": "4x2 Crew Cab Pickup - LT Man",
+                "description": "4x2 Crew Cab Pickup - LT Man",
+                "price": "36490.0"
+            },
+            {
+                "id": "1236941994777",
+                "name": "4x2 Crew Cab Pickup - LT Auto",
+                "description": "4x2 Crew Cab Pickup - LT Auto",
+                "price": "38690.0"
+            }
+        ]
+    },
+    {
+        "id": 1236941710719,
+        "name": "Colorado 4x2 Crew Cab Pickup LX",
+        "specifications": [
+            {
+                "id": "1236941994666",
+                "name": "4x2 Crew Cab Pickup - LX Man",
+                "description": "4x2 Crew Cab Pickup - LX Man",
+                "price": "35490.0"
+            },
+            {
+                "id": "1236941994695",
+                "name": "4x2 Crew Cab Pickup - LX Auto",
+                "description": "4x2 Crew Cab Pickup - LX Auto",
+                "price": "37690.0"
+            }
+        ]
+    },
+    {
+        "id": 1236941710778,
+        "name": "Colorado 4x2 Crew Cab Chassis LX",
+        "specifications": [
+            {
+                "id": "1236941955656",
+                "name": "4x2 Crew Cab Chassis - LX Man",
+                "description": "4x2 Crew Cab Chassis - LX Man",
+                "price": "33990.0"
+            },
+            {
+                "id": "1236941955702",
+                "name": "4x2 Crew Cab Chassis - LX Auto",
+                "description": "4x2 Crew Cab Chassis - LX Auto",
+                "price": "36390.0"
+            }
+        ]
+    },
+    {
+        "id": 1236941710831,
+        "name": "Colorado 4x2 Single Cab Chassis LX",
+        "specifications": [
+            {
+                "id": "1236941955564",
+                "name": "4x2 Single Cab Chassis - LX Man",
+                "description": "4x2 Single Cab Chassis - LX Man",
+                "price": "27990.0"
+            },
+            {
+                "id": "1236941955610",
+                "name": "4x2 Single Cab Chassis - LX Auto",
+                "description": "4x2 Single Cab Chassis - LX Auto",
+                "price": "30390.0"
+            }
+        ]
+    },
+    {
+        "id": 1236941992709,
+        "name": "Volt",
+        "specifications": [
+            {
+                "id": "1236942681411",
+                "name": "1.4L DOHC petrol 4-cylinder engine",
+                "description": "1.4L DOHC petrol 4-cylinder engine",
+                "price": "0.0"
+            }
+        ]
+    },
+    {
+        "id": 1236944431069,
+        "name": "Colorado 7 LT",
+        "specifications": [
+            {
+                "id": "1236944474534",
+                "name": "Colorado 7 LT - 2.8L auto",
+                "description": "Colorado 7 LT",
+                "price": "46990.0"
+            }
+        ]
+    },
+    {
+        "id": 1236944431071,
+        "name": "Colorado 7 LTZ",
+        "specifications": [
+            {
+                "id": "1236944474794",
+                "name": "Colorado 7  LTZ - 2.8L auto",
+                "description": "Colorado 7 LTZ",
+                "price": "50490.0"
+            }
+        ]
+    },
+    {
+        "id": 1236944882500,
+        "name": "Barina CDX Hatch",
+        "specifications": [
+            {
+                "id": "1236928903877",
+                "name": "1.6L Petrol Automatic CDX Hatch",
+                "description": "1.6 litre in-line 4-cylinder DOHC 16 valve petrol engine -Barina",
+                "price": "20490.0"
+            }
+        ]
+    },
+    {
+        "id": 1236944882501,
+        "name": "Barina CDX Sedan",
+        "specifications": [
+            {
+                "id": "1236946122167",
+                "name": "1.6L Petrol Automatic CDX Sedan",
+                "description": "1.6 litre in-line 4-cylinder DOHC 16 valve petrol engine -Barina",
+                "price": "20990.0"
+            }
+        ]
+    },
+    {
+        "id": 1236945092221,
+        "name": "Cruze CD Sportwagon",
+        "specifications": [
+            {
+                "id": "1236945942040",
+                "name": "1.8L Petrol Automatic",
+                "description": "1.8L Petrol Automatic Cruze CD Sportwagon",
+                "price": "25790.0"
+            },
+            {
+                "id": "1236945942039",
+                "name": "2.0L Diesel Automatic",
+                "description": "2.0L Diesel Automatic - Cruze CD Sportwagon",
+                "price": "29790.0"
+            }
+        ]
+    },
+    {
+        "id": 1236945093112,
+        "name": "Cruze CDX Sportwagon",
+        "specifications": [
+            {
+                "id": "1236945942722",
+                "name": "1.8L Petrol Automatic",
+                "description": "1.8L Petrol Automatic Cruze CDX Sportwagon",
+                "price": "29040.0"
+            }
+        ]
+    },
+    {
+        "id": 1236975007277,
+        "name": "Malibu CD",
+        "specifications": [
+            {
+                "id": "1369496002229",
+                "name": "CD - 2.4L DOHC 4-cylinder petrol engine",
+                "description": "2.4L DOHC 4-cylinder petrol engine",
+                "price": "28490.0"
+            },
+            {
+                "id": "1370256292752",
+                "name": "CD - 2.0 DOHC 4-cylinder common rail turbo diesel engine",
+                "description": "2.0 DOHC 4-cylinder common rail turbo diesel engine",
+                "price": "32490.0"
+            }
+        ]
+    },
+    {
+        "id": 1366088799699,
+        "name": "Captiva 5 LTZ",
+        "specifications": [
+            {
+                "id": "1367560942944",
+                "name": "Captiva 5 LTZ - 2.4L Petrol engine 2WD",
+                "description": "2.4L Petrol engine 2WD Automatic",
+                "price": "32990.0"
+            },
+            {
+                "id": "1367561286967",
+                "name": "Captiva 5 LTZ 2.2L Turbo Diesel AWD",
+                "description": "2.2L Turbo Diesel AWD Automatic",
+                "price": "36990.0"
+            }
+        ]
+    },
+    {
+        "id": 1366088832820,
+        "name": "Captiva 5 LT",
+        "specifications": [
+            {
+                "id": "1236910470937",
+                "name": "Captiva 5 LT - 2.4L Petrol engine 2WD Manual",
+                "description": "2.4L Petrol engine 2WD Manual",
+                "price": "27990.0"
+            },
+            {
+                "id": "1226935043531",
+                "name": "Captiva 5 LT 2.2L Turbo Diesel AWD Automatic",
+                "description": "2.2L Turbo Diesel AWD Automatic",
+                "price": "33990.0"
+            },
+            {
+                "id": "1236910472807",
+                "name": "Captiva 5 LT - 2.4L Petrol engine 2WD Automatic",
+                "description": "2.4L Petrol engine 2WD Automatic",
+                "price": "29990.0"
+            }
+        ]
+    },
+    {
+        "id": 1367290715414,
+        "name": "Commodore Calais Sedan",
+        "specifications": [
+            {
+                "id": "1369124012133",
+                "name": "VF Calais - Auto V6",
+                "description": "Automatic",
+                "price": "39990.0"
+            }
+        ]
+    },
+    {
+        "id": 1367291275972,
+        "name": "Commodore SV6 Sedan",
+        "specifications": [
+            {
+                "id": "1369123625429",
+                "name": "VF Commodore SV6 - Manual",
+                "description": "Manual",
+                "price": "35990.0"
+            },
+            {
+                "id": "1369123575781",
+                "name": "VF Commodore SV6 - Auto ",
+                "description": "Automatic",
+                "price": "38190.0"
+            },
+            {
+                "id": "1371001412708",
+                "name": "VF Commodore SV6 - Auto LPG",
+                "description": "Automatic LPG",
+                "price": "40690.0"
+            }
+        ]
+    },
+    {
+        "id": 1367292168136,
+        "name": "Commodore Evoke Sedan",
+        "specifications": [
+            {
+                "id": "1369122953201",
+                "name": "VF Commodore Evoke - Auto ",
+                "description": "Automatic",
+                "price": "34990.0"
+            },
+            {
+                "id": "1369122587728",
+                "name": "VF Commodore Evoke - Auto LPG",
+                "description": "Automatic LPG",
+                "price": "37490.0"
+            }
+        ]
+    },
+    {
+        "id": 1367293075383,
+        "name": "Commodore Calais V-Series Sedan",
+        "specifications": [
+            {
+                "id": "1369124039129",
+                "name": "VF Calais V-Series - Auto V6",
+                "description": "Automatic",
+                "price": "46990.0"
+            },
+            {
+                "id": "1369124051431",
+                "name": "VF Calais V-Series - Auto V8",
+                "description": "Automatic V8",
+                "price": "52990.0"
+            }
+        ]
+    },
+    {
+        "id": 1367387237795,
+        "name": "Commodore SS V-Series Redline Sedan",
+        "specifications": [
+            {
+                "id": "1369123953022",
+                "name": "VF Commodore SS V-Series Redline - Manual",
+                "description": "Manual V8",
+                "price": "51490.0"
+            },
+            {
+                "id": "1369123967979",
+                "name": "VF Commodore SS V-Series Redline - Automatic",
+                "description": "Automatic V8",
+                "price": "53690.0"
+            }
+        ]
+    },
+    {
+        "id": 1367387497298,
+        "name": "Commodore SS Sedan",
+        "specifications": [
+            {
+                "id": "1369123726372",
+                "name": "VF Commodore SS - Manual",
+                "description": "Manual V8",
+                "price": "41990.0"
+            },
+            {
+                "id": "1369123853853",
+                "name": "VF Commodore SS - Automatic V8",
+                "description": "Automatic V8",
+                "price": "44190.0"
+            }
+        ]
+    },
+    {
+        "id": 1367389232003,
+        "name": "Commodore SS V-Series Sedan",
+        "specifications": [
+            {
+                "id": "1369123918600",
+                "name": "VF Commodore SS V Series - Manual",
+                "description": "Automatic V8",
+                "price": "45490.0"
+            },
+            {
+                "id": "1369123907953",
+                "name": "VF Commodore SS V Series - Automatic",
+                "description": "Automatic V8",
+                "price": "47690.0"
+            }
+        ]
+    },
+    {
+        "id": 1367390094505,
+        "name": "Commodore SV6 Sportwagon",
+        "specifications": [
+            {
+                "id": "1370626983939",
+                "name": "Commodore SV6 - Auto",
+                "description": "Automatic",
+                "price": "40190.0"
+            },
+            {
+                "id": "1369123479717",
+                "name": "VF Commodore SV6 - Auto LPG",
+                "description": "Automatic LPG",
+                "price": "42690.0"
+            }
+        ]
+    },
+    {
+        "id": 1367390681281,
+        "name": "Commodore Evoke Sportwagon",
+        "specifications": [
+            {
+                "id": "1369121644820",
+                "name": "VF Sportwagon Evoke - Automatic",
+                "description": "Automatic",
+                "price": "36990.0"
+            },
+            {
+                "id": "1369121608940",
+                "name": "VF Sportwagon Evoke - Automatic LPG",
+                "description": "Automatic LPG",
+                "price": "39490.0"
+            }
+        ]
+    },
+    {
+        "id": 1367488791084,
+        "name": "Commodore SS V-Series Sportwagon",
+        "specifications": [
+            {
+                "id": "1369121030777",
+                "name": "VF Sportwagon V-Series - Automatic",
+                "description": "Manual",
+                "price": "49690.0"
+            }
+        ]
+    },
+    {
+        "id": 1367488962242,
+        "name": "Commodore SS V-Series Redline Sportwagon",
+        "specifications": [
+            {
+                "id": "1369120661822",
+                "name": "VF Sportwagon V-Series Redline - Automatic",
+                "description": "Manual",
+                "price": "55690.0"
+            }
+        ]
+    },
+    {
+        "id": 1367489327324,
+        "name": "Commodore SS Sportwagon",
+        "specifications": [
+            {
+                "id": "1369121110845",
+                "name": "VF Sportwagon SS - Automatic",
+                "description": "Automatic",
+                "price": "46190.0"
+            }
+        ]
+    },
+    {
+        "id": 1367489392903,
+        "name": "Commodore Calais Sportwagon",
+        "specifications": [
+            {
+                "id": "1369120397683",
+                "name": "VF Calais Sportwagon - Auto V6",
+                "description": "Automatic",
+                "price": "41990.0"
+            }
+        ]
+    },
+    {
+        "id": 1367573643900,
+        "name": "Commodore Calais V-Series Sportwagon",
+        "specifications": [
+            {
+                "id": "1369119951031",
+                "name": "VF Calais V-Series Sportwagon - Auto V6",
+                "description": "Automatic",
+                "price": "48990.0"
+            },
+            {
+                "id": "1369120257993",
+                "name": "VF Calais V-Series Sportwagon - Auto V8",
+                "description": "Automatic V8",
+                "price": "54990.0"
+            }
+        ]
+    },
+    {
+        "id": 1368018533540,
+        "name": "Caprice V-Series",
+        "specifications": [
+            {
+                "id": "1369119261728",
+                "name": "Caprice - Automatic ",
+                "description": "Automatic",
+                "price": "59990.0"
+            }
+        ]
+    },
+    {
+        "id": 1368089404666,
+        "name": "Caprice",
+        "specifications": [
+            {
+                "id": "1369119151013",
+                "name": "Caprice - Automatic LPG",
+                "description": "Automatic LPG",
+                "price": "54490.0"
+            }
+        ]
+    },
+    {
+        "id": 1368114374738,
+        "name": "Ute SS V-Series",
+        "specifications": [
+            {
+                "id": "1369114436906",
+                "name": "VF Ute SS V-Series - Manual",
+                "description": "Manual",
+                "price": "42490.0"
+            },
+            {
+                "id": "1369118658972",
+                "name": "VF Ute SS V-Series - Automatic",
+                "description": "Automatic",
+                "price": "44690.0"
+            }
+        ]
+    },
+    {
+        "id": 1368114971423,
+        "name": "Ute SS V-Series Redline",
+        "specifications": [
+            {
+                "id": "1369118340677",
+                "name": "VF Ute SS V-Series Redline - Manual",
+                "description": "Manual",
+                "price": "48490.0"
+            },
+            {
+                "id": "1369114769901",
+                "name": "VF Ute SS V-Series Redline - Automatic",
+                "description": "Automatic",
+                "price": "50690.0"
+            }
+        ]
+    },
+    {
+        "id": 1368115060159,
+        "name": "Holden Ute",
+        "specifications": [
+            {
+                "id": "1369111636252",
+                "name": "VF Ute - Automatic",
+                "description": "Automatic",
+                "price": "32990.0"
+            }
+        ]
+    },
+    {
+        "id": 1368115173035,
+        "name": "Ute SV6",
+        "specifications": [
+            {
+                "id": "1369111371555",
+                "name": "VF Ute SV6 - Manual",
+                "description": "Manual VF",
+                "price": "32990.0"
+            },
+            {
+                "id": "1369111657743",
+                "name": "VF Ute SV6 - Automatic",
+                "description": "Manual",
+                "price": "35190.0"
+            }
+        ]
+    },
+    {
+        "id": 1368115480754,
+        "name": "Ute SS",
+        "specifications": [
+            {
+                "id": "1369111704310",
+                "name": "VF Ute SS - Manual",
+                "description": "Manual",
+                "price": "38990.0"
+            },
+            {
+                "id": "1369111720503",
+                "name": "VF Ute SS - Automatic",
+                "description": "Automatic",
+                "price": "41190.0"
+            }
+        ]
+    },
+    {
+        "id": 1368600083786,
+        "name": "Malibu CDX",
+        "specifications": [
+            {
+                "id": "1370319690359",
+                "name": "CDX - 2.4L DOHC 4-cylinder petrol engine",
+                "description": "2.4L DOHC 4-cylinder petrol engine",
+                "price": "31990.0"
+            },
+            {
+                "id": "1370319620999",
+                "name": "CDX - 2.0 DOHC 4-cylinder common rail turbo diesel engine",
+                "description": "2.0 DOHC 4-cylinder common rail turbo diesel engine",
+                "price": "35990.0"
+            }
+        ]
+    },
+    {
+        "id": 1372917953792,
+        "name": "Trax LS",
+        "specifications": [
+            {
+                "id": "1374106441255",
+                "name": "1.8L Petrol Manual Trax ",
+                "description": "1.8L DOHC 16-valve 4-cylinder petrol engine",
+                "price": "23490.0"
+            },
+            {
+                "id": "1374106479935",
+                "name": "1.8L Petrol Automatic Trax",
+                "description": "1.8L DOHC 16-valve 4-cylinder petrol engine",
+                "price": "25690.0"
+            }
+        ]
+    },
+    {
+        "id": 1372918070526,
+        "name": "Trax LTZ",
+        "specifications": [
+            {
+                "id": "1374106550655",
+                "name": "1.8L Petrol Automatic Trax LTZ",
+                "description": "1.8L DOHC 16-valve 4-cylinder petrol engine",
+                "price": "27990.0"
+            }
+        ]
+    },
+    {
+        "id": 1379030121026,
+        "name": "Commodore International Sedan",
+        "specifications": [
+            {
+                "id": "1379497773696",
+                "name": "VF Commodore International Sedan -  Auto",
+                "description": "VF Commodore International Sedan -  Auto",
+                "price": "36990.0"
+            },
+            {
+                "id": "1379678095418",
+                "name": "VF Commodore International Sedan- Auto LPG",
+                "description": "VF Commodore International Sedan- Auto LPG",
+                "price": "39490.0"
+            }
+        ]
+    },
+    {
+        "id": 1379030131659,
+        "name": "Commodore International Sportwagon",
+        "specifications": [
+            {
+                "id": "1379678245178",
+                "name": "VF Commodore International Sportwagon - Auto",
+                "description": "VF Commodore International Sportwagon - Auto",
+                "price": "38990.0"
+            },
+            {
+                "id": "1379678183498",
+                "name": "VF Commodore Sportwagon International - Auto LPG",
+                "description": "VF Commodore Sportwagon International - Auto LPG",
+                "price": "41490.0"
+            }
+        ]
+    }
+]
